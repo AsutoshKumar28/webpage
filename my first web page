@@ -1,14 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meat charset="UTF-8">
-<title>FINAL PROJECT</title>
-</head>
-<body>
-</body>
-<header>
-<nav display="inline">
-<a href="https//example.com/1">One</a>
-</nav>
-</header>
-</html>
+<!DOCTYPE HTML>
+ <html lang="en">
+ <head>
+ <meta charset="UTF-8">
+ <title>FINAL PROJECT</title>
+ </head>
+ <body>
+ <header>
+ <nav display="inline">
+ <h1>ASUTOSH KUMAR</h1>
+ <a href="https//example.com/1">One</a>
+  <a href="https//example.com/2">Two</a>
+   <a href="https//example.com/3">Three</a>
+    <a href="https//example.com/1">ThisIsMySite</a>
+ </nav>
+ </header>
+ <section>
+     <h2>Favourite Foods</h2>
+     <ul>
+         <li>Apples</li>
+         <li>Rice</li>
+         <li>Chocolates</li>
+         <li>Burger</li>
+     </ul>
+  </section>
+  <section>
+ <h2>Achievements</h2>
+ Progress in course(100%)
+ <progress value="100" max="100"></progress><br>
+Progress in Specialization capstone(20%)
+ <progress value="20" max="100"></progress><br>
+ Progress in life goal(100%)
+ <progress value="35" max="100"></progress><br>
+ </section>
+ <section>
+     <h2>More About Me</h2>
+     <details>
+         <summary>
+             My childhood
+         </summary>
+         I grow up in my hometown and went to other cities for study till now.
+     </details>
+ </section>
+ <footer>
+     <img scr="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
+     This page was created Asutosh Kumar and & Colleen van Lent. To learn more about web design, visit
+     <a href="https://www.intro-webdesign.com">Intro to Web Design</a>;
+ </footer>
+   </body>
+ </html>
